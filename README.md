@@ -13,9 +13,6 @@ All alerts you see by our bot is set by a staff member of that cookgroup manuall
 - `r.clear`: This will create all the reminders for that particular server.
 - `r.time`: Will returh the current time for your server, by default it use the timezone `America/New_York` that you can change with `r.settz` (see the use below.).
 - `r.settz <time-zone>`: Will change the timzone for your server example `r.settz America/New_York`.
-- `r.setcolor`: This will change the color of embed messeges.
-- `r.setprefix`: This will change the prefix for bot commands.
-- `r.help`: Gives you a link to the docuementation
 
 ## Avalible Timezones
 https://en.m.wikipedia.org/wiki/List_of_tz_database_time_zones
