@@ -3,13 +3,17 @@
 ### Not reproduced/relayed alerts
 All alerts you see by our bot is set by a staff member of that cookgroup manually, Linear does not set any alerts.
 
+![Image](https://cdn.discordapp.com/attachments/793726684741632000/793727557081497640/Screen_Shot_2020-12-30_at_12.29.43_AM.png)
+![Image](https://cdn.discordapp.com/attachments/793726684741632000/793730148120657970/Screen_Shot_2020-12-30_at_12.40.03_AM.png)
+
+
 ### Support
 Open a ticket in the linear discord server: https://discord.gg/ZSyYNzBdxk
 
 # Commands:
 - *Assuming you've set the prefix to `r.`*
 - *In order to work with the bot you need to have a role that varies in each server, the owner sets the permissions.*
-[IMAGE]()
+
 ## General
 - `r.help`: Gives you a link to the docuementation and list of commands [IMAGE](https://cdn.discordapp.com/attachments/793726684741632000/793726951311147028/Screen_Shot_2020-12-30_at_12.27.18_AM.png)
 - `r.setalert`: This will add alert on your desired time. [IMAGE](https://cdn.discordapp.com/attachments/793726684741632000/793727557081497640/Screen_Shot_2020-12-30_at_12.29.43_AM.png)
